@@ -1,0 +1,22 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilo global */
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #eef2f3, #dfe9f3);
+  color: #333;
+}
+
+/* Deixar títulos mais elegantes */
+h1, h2 {
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.1rem;
+}
